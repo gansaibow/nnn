@@ -1,0 +1,1 @@
+An attempt to write a portable NES emulator as part of a personal learning project using Qt.
